@@ -4,7 +4,7 @@ import './experience.css'
 // import { BsPatchCheckFill } from "react-icons/bs";
 import {FaReact, FaCss3Alt} from 'react-icons/fa'
 import {DiMongodb, DiMysql} from 'react-icons/di'
-import {AiOutlineHtml5, AiOutlineCloud} from 'react-icons/ai'
+import {AiOutlineHtml5, AiTwotoneCloud} from 'react-icons/ai'
 import {SiJavascript,SiTailwindcss,SiBootstrap, SiPython, SiNodedotjs} from 'react-icons/si'
 
 const Experience = () => {
@@ -92,7 +92,7 @@ const Experience = () => {
               </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCloud className="experience__details-icon" />
+              <AiTwotoneCloud className="experience__details-icon" />
               <div>
                 <h4>Cloud</h4>
                 <small className="text-light">Experienced</small>
