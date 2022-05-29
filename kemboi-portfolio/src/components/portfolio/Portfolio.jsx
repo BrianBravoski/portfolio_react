@@ -8,8 +8,8 @@ const data=[
     id:1,
     image:Img1,
     title:'Magical Safaris',
-    github:'https://github.com', 
-    demo:'https://github.com'
+    github:'https://github.com/BrianBravoski', 
+    demo:'https://magicalsfaris.netlify.com'
   },
   {
     id:2,
