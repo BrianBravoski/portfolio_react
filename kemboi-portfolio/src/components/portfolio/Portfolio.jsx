@@ -7,14 +7,14 @@ const data=[
   {
     id:1,
     image:Img1,
-    title:'Portfolio Item',
+    title:'Magical Safaris',
     github:'https://github.com', 
     demo:'https://github.com'
   },
   {
     id:2,
     image:Img1,
-    title:'Portfolio Item',
+    title:'Crypto /mtaani',
     github:'https://github.com', 
     demo:'https://github.com'
   },
