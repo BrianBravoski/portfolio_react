@@ -1,6 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 import Img1 from '../../assets/portfolio1.png'
+import Img2 from '../../assets/Real-Estate.png'
 
 
 const data=[
@@ -20,10 +21,10 @@ const data=[
   },
   {
     id:3,
-    image:Img1,
-    title:'Portfolio Item',
-    github:'https://github.com', 
-    demo:'https://github.com'
+    image:Img2,
+    title:'Realtor',
+    github:'https://github.com/BrianBravoski/realtor/', 
+    demo:'https://realtor-lake.vercel.app/'
   },
   {
     id:4,
@@ -32,19 +33,19 @@ const data=[
     github:'https://github.com', 
     demo:'https://github.com'
   },
-  {
-    id:5,
-    image:Img1,
-    title:'Portfolio Item',
-    github:'https://github.com', 
-    demo:'https://github.com'
-  },{
-    id:6,
-    image:Img1,
-    title:'Portfolio Item',
-    github:'https://github.com', 
-    demo:'https://github.com'
-  },
+  // {
+  //   id:5,
+  //   image:Img1,
+  //   title:'Portfolio Item',
+  //   github:'https://github.com', 
+  //   demo:'https://github.com'
+  // },{
+  //   id:6,
+  //   image:Img1,
+  //   title:'Portfolio Item',
+  //   github:'https://github.com', 
+  //   demo:'https://github.com'
+  // },
 ]
 
 
