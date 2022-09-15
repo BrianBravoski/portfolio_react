@@ -1,27 +1,31 @@
 import React from "react";
 import "./portfolio.css";
+
+
 import Img1 from '../../assets/portfolio1.png'
-import Img2 from '../../assets/Real-Estate.png'
+import Img2 from '../../assets/Chuma-Gym.png'
+import Img3 from '../../assets/Real-Estate.png'
+
 
 
 const data=[
-  {
-    id:1,
-    image:Img1,
-    title:'Magical Safaris',
-    github:'https://github.com/BrianBravoski', 
-    demo:'https://magicalsfaris.netlify.com'
-  },
+  // {
+  //   id:1,
+  //   image:Img1,
+  //   title:'Magical Safaris',
+  //   github:'https://github.com/BrianBravoski', 
+  //   demo:'https://magicalsfaris.netlify.com'
+  // },
   {
     id:2,
-    image:Img1,
-    title:'Crypto /mtaani',
-    github:'https://github.com', 
-    demo:'https://github.com'
+    image:Img2,
+    title:'Chuma Gym',
+    github:'https://github.com/BrianBravoski/gym_web', 
+    demo:'https://chumagym.netlify.app'
   },
   {
     id:3,
-    image:Img2,
+    image:Img3,
     title:'Realtor',
     github:'https://github.com/BrianBravoski/realtor/', 
     demo:'https://realtor-lake.vercel.app/'
