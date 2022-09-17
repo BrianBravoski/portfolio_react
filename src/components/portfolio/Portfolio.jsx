@@ -28,7 +28,7 @@ const data=[
     image:Img3,
     title:'Realtor',
     github:'https://github.com/BrianBravoski/realtor/', 
-    demo:'https://realtor-lake.vercel.app/'
+    demo:'https://houseofluxury.vercel.app/'
   },
   {
     id:4,
