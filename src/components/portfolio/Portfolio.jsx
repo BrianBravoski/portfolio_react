@@ -5,6 +5,7 @@ import "./portfolio.css";
 import Img1 from '../../assets/portfolio1.png'
 import Img2 from '../../assets/Chuma-Gym.png'
 import Img3 from '../../assets/Real-Estate.png'
+import Img4 from '../../assets/Politics-Blog.png'
 
 
 
@@ -17,39 +18,32 @@ const data=[
   //   demo:'https://magicalsfaris.netlify.com'
   // },
   {
-    id:2,
+    id:1,
     image:Img2,
     title:'Chuma Gym',
     github:'https://github.com/BrianBravoski/gym_web', 
     demo:'https://chumagym.netlify.app'
   },
   {
-    id:3,
+    id:2,
     image:Img3,
     title:'Realtor',
     github:'https://github.com/BrianBravoski/realtor/', 
     demo:'https://houseofluxury.vercel.app/'
   },
   {
+    id:3,
+    image:Img4,
+    title:'The Blog',
+    github:'https://github.com/BrianBravoski/politics_blog', 
+    demo:'https://politicsblog.vercel.app/'
+  },{
     id:4,
     image:Img1,
-    title:'Portfolio Item',
-    github:'https://github.com', 
+    title:'Jambo Shop',
+    github:'https://github.com/BrianBravoski/e_commerce', 
     demo:'https://github.com'
   },
-  // {
-  //   id:5,
-  //   image:Img1,
-  //   title:'Portfolio Item',
-  //   github:'https://github.com', 
-  //   demo:'https://github.com'
-  // },{
-  //   id:6,
-  //   image:Img1,
-  //   title:'Portfolio Item',
-  //   github:'https://github.com', 
-  //   demo:'https://github.com'
-  // },
 ]
 
 
@@ -83,7 +77,6 @@ const Portfolio = () => {
             target="_blank"
             rel="noreferrer"
           >
-
             Live Demo
           </a>
           </div>
