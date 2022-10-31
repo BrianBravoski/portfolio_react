@@ -6,7 +6,7 @@ import Img1 from '../../assets/portfolio1.png'
 import Img2 from '../../assets/Chuma-Gym.png'
 import Img3 from '../../assets/Real-Estate.png'
 import Img4 from '../../assets/Politics-Blog.png'
-
+import Img5 from '../../assets/Jambo-supermarket.png'
 
 
 const data=[
@@ -39,10 +39,10 @@ const data=[
     demo:'https://politicsblog.vercel.app/'
   },{
     id:4,
-    image:Img1,
+    image:Img5,
     title:'Jambo Shop',
     github:'https://github.com/BrianBravoski/e_commerce', 
-    demo:'https://github.com'
+    demo:'https://jambo-store.vercel.app/'
   },
 ]
 
