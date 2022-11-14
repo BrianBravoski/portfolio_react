@@ -39,10 +39,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
-            laudantium cum esse. Aliquam repellendus excepturi voluptatibus
-            necessitatibus officiis soluta, fuga praesentium iste maiores
-            aperiam blanditiis at unde vero numquam veritatis?
+          I’m a software engineer specializing in building and occasionally designing exceptional digital experiences.
           </p>
 
           <a href="#contact" className="btn btn-primary"> Let's Chat</a>          
