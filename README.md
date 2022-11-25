@@ -14,8 +14,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a personal portfolio project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This is a personal portfolio project that showcases the various projects that I have worked on.
+
+
 
 
 
